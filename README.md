@@ -17,6 +17,8 @@ The Van der Pol oscillator is especially interesting because it demonstrates lim
 
 This system can be used to model biological rhythms (like heartbeat), electrical circuits (such as relaxation oscillators), and even certain aspects of neural firing patterns.
 
+In this case: \mu = 2
+
 
 
 ![a](https://github.com/user-attachments/assets/919a78ef-18a1-4387-b05e-be8443145e3c)
