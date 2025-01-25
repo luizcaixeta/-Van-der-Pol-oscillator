@@ -2,9 +2,9 @@ The Van der Pol oscillator is a nonlinear second-order differential equation oft
 
 The equation for the Van der Pol oscillator is:
 
-\[
-\frac{d^2x}{dt^2} - 2(1 - x^2) \frac{dx}{dt} + x = 0
-\]
+$$
+\frac{d^2x}{dt^2} - \mu(1 - x^2) \frac{dx}{dt} + x = 0
+$$
 
 Where:
 - \(x\) represents the system's state (e.g., position, voltage, etc.),
@@ -16,6 +16,7 @@ When \(\mu = 0\), the system behaves like a simple harmonic oscillator, exhibiti
 The Van der Pol oscillator is especially interesting because it demonstrates limit cycle behavior. Regardless of the initial conditions, the system will tend toward a periodic oscillation with a fixed amplitude and frequency (for sufficiently large \(\mu\)), a phenomenon known as a limit cycle.
 
 This system can be used to model biological rhythms (like heartbeat), electrical circuits (such as relaxation oscillators), and even certain aspects of neural firing patterns.
+
 
 
 ![a](https://github.com/user-attachments/assets/919a78ef-18a1-4387-b05e-be8443145e3c)
