@@ -3,7 +3,7 @@ The Van der Pol oscillator is a nonlinear second-order differential equation oft
 The equation for the Van der Pol oscillator is:
 
 \[
-\frac{d^2x}{dt^2} - \mu(1 - x^2) \frac{dx}{dt} + x = 0
+\frac{d^2x}{dt^2} - 2(1 - x^2) \frac{dx}{dt} + x = 0
 \]
 
 Where:
